@@ -5,8 +5,6 @@
 
 <h3 bold>Course Overview :
 
-
-<h3 align middle>
 i)   SECI1013 Discrete Structure
   
 ii)  SECR1013 Digital Logic
