@@ -8,7 +8,6 @@ VENUE : Hyflex Classroom N28A (Online)
 </div>
 <div align="left">       
 <i> <u><b>Reflection</b>
-  
 This is a talk on PPG, it is about explanation on the purpose of PPG and how their works goes around the globe. Through this talk it gives us an idea or knowing on how a global company works which helps with our knowledge about the importance of ICT impact the behavior of a company like how they exchange their idea and have a well communication across all branches.
 
 ## Documentation  
