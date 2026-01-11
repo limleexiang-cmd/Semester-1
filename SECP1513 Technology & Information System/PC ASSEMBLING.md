@@ -11,7 +11,7 @@ VENUE : Software Innovation Lab, N28
 ## Reflection
 <div align="justify">
 <div align="center">
-This is a talk on PPG, it is about explanation on the purpose of PPG and how their works goes around the globe. Through this talk it gives us an idea or knowing on how a global company works which helps with our knowledge about the importance of ICT impact the behavior of a company like how they exchange their idea and have a well communication across all branches.
+On 12 November 2025, we as a team of four had the chance to hands on session to reassembled pc, it was a great experience. In the session, we are taught to dissemble and assembled a pc.It give a chance for us to know the component of the pc and what's it look like for every hardware in a pc.
 
 ## Documentation  
 
