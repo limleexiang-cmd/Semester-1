@@ -1,11 +1,12 @@
 <div align="justify">
 <div align="center">
-<b># PC ASSEMBLE</b>
-</div>        
+
+#  PC ASSEMBLE
 DATE : 12 November 2025
 
 VENUE : Software Innovation Lab, N28
 </div>
+        
         
 ## Reflection
 <div align="justify">
