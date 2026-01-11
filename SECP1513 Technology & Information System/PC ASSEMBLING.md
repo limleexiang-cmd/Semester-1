@@ -1,7 +1,7 @@
 <div align="justify">
 <div align="center">
 
-#PC ASSEMBLE
+<strong><b>PC ASSEMBLE</b>
 DATE : 12 November 2025
 
 VENUE : Software Innovation Lab, N28
