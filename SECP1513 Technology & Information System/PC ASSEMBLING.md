@@ -1,7 +1,7 @@
 <div align="justify">
 <div align="center">
 
-#  PC ASSEMBLE
+#  PC ASSEMBLING
 DATE : 12 November 2025
 
 VENUE : Software Innovation Lab, N28
@@ -9,7 +9,9 @@ VENUE : Software Innovation Lab, N28
         
         
 ## Reflection
-On 12 November 2025, we as a team of four had the chance to hands on session to reassembled pc, it was a great experience. In the session, we are taught to dissemble and assembled a pc.It give a chance for us to know the component of the pc and what's it look like for every hardware in a pc.
+On 12 November 2025, our team of four had the opportunity to participate in a hands-on PC reassembly session. It was a valuable and engaging experience that allowed us to gain practical exposure to computer hardware. During the session, we were guided on how to properly disassemble and assemble a personal computer.
+
+This activity provided us with a clear understanding of the various components of a PC, as well as their physical appearance and functions. By handling each hardware component directly, we were able to better recognize how the parts fit together and how they contribute to the overall operation of the system. Overall, the session enhanced our technical knowledge and strengthened our interest in computer hardware and the IT field.
 
 ## Documentation  
 
