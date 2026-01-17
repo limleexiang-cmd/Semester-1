@@ -9,7 +9,7 @@ VENUE : Kawasan Perindustrian SILC, 1, Jln Bioteknologi 1, 79200 Iskandar Puteri
 <div align="left">       
 
 ## REFLECTION 
-On 24 December 2025, I have an opportunity to visit the leading global biopharmaceutical company main in India but having a branch in Malaysia which is Biocon. It was great to have the tour around the company. They given some speech that's mean a lot by giving us thinking that what's the use of technology now, it just a basic answer but no one think about it, it just to help people but not overtaking what we have but helping us to achieve in our goal. That's was a meaningful speech. It thought us how the production of the insulin went like duplication of the insulin. It was so pack of new knowledge of which I didn't know about.
+*On 24 December 2025, I have an opportunity to visit the leading global biopharmaceutical company main in India but having a branch in Malaysia which is Biocon. It was great to have the tour around the company. They given some speech that's mean a lot by giving us thinking that what's the use of technology now, it just a basic answer but no one think about it, it just to help people but not overtaking what we have but helping us to achieve in our goal. That's was a meaningful speech. It thought us how the production of the insulin went like duplication of the insulin. It was so pack of new knowledge of which I didn't know about.*
 
 ## Documentation  
 **Newsletter**
