@@ -20,5 +20,6 @@ In this industry talk, which the speaker was an alumni of UTM, it was a great pl
 <img width="608" height="720" alt="Screenshot 2026-01-17 101900" src="https://github.com/user-attachments/assets/ad9367e8-664e-448c-af1a-f3dd6371d26a" />
 
 **Images**
+
 <img width="456" height="643" alt="Picture1" src="https://github.com/user-attachments/assets/2b57d71b-11a5-408e-b154-eb76733102cb" />
 
