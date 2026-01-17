@@ -9,8 +9,6 @@ VENUE : Software Innovation Lab, N28
         
         
 ## Reflection
-<div align="justify">
-<div align="center">
 On 12 November 2025, we as a team of four had the chance to hands on session to reassembled pc, it was a great experience. In the session, we are taught to dissemble and assembled a pc.It give a chance for us to know the component of the pc and what's it look like for every hardware in a pc.
 
 ## Documentation  
