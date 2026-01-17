@@ -9,8 +9,9 @@ VENUE : UTMDigital Building
 <div align="left">       
 <i> <u><b>Reflection</b>
   
-On 29 October 2025, UTM have an event called UTMDIGITAL open day. We attended a speech on that day. It was about system development. The talks was very useful, it gives us an idea on how should it be like during the working experience, technique that's been use for us to ease the communication during works. During the QNA sessions, we also know that what the purpose Of UTMDIGITAL. It was an uncreatable experience for us.
-In the hall where the speech runs, it was very large and motivated me into this IT industry.Besides this, IT is a never stopping industry it is a fun for me to be able do have my foot step into this.
+On 29 October 2025, UTM organized an event known as the UTMDIGITAL Open Day, which we attended. During the event, we participated in a talk focused on system development. The session was highly informative and provided valuable insights into real working experiences in the IT industry. It introduced us to various techniques used in professional environments, particularly those that help improve communication and collaboration during work.
+
+During the Q&A session, we gained a clearer understanding of the purpose and role of UTMDIGITAL. Overall, the experience was truly unforgettable and meaningful. The large and professional setting of the hall where the talk was held further inspired and motivated me to pursue a career in the IT industry. Moreover, IT is a continuously evolving field, and having the opportunity to take my first steps into this industry is both exciting and fulfilling for me.
 
 ## Documentation  
 
