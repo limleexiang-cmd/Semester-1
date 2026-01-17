@@ -11,7 +11,7 @@ VENUE : Hyflex Classroom N28A (Online)
 <div align="left">  
   
 ## REFLECTION 
-In this industry talk, which the speaker was an alumni of UTM, it was a great pleasure to had him sharing his experience with us. It give us some thought on what skills should we have and the method on solving or doing the project which said the difference between waterfall and agile method in an very easy method to understand.In which,he mentioned that people often did not sure what they want so agile method provide the easy changes when the customer changes their thought from time to time, while still be able to fulfill customer end requirement.It was a great for hearing his explaination which is easy and direct and example being use is based on real-life and easy to relate with, at the end of the talk I have learn that we need to explore more of the knowledge other then what we have learn in the academic year.
+*In this industry talk, which the speaker was an alumni of UTM, it was a great pleasure to had him sharing his experience with us. It give us some thought on what skills should we have and the method on solving or doing the project which said the difference between waterfall and agile method in an very easy method to understand.In which,he mentioned that people often did not sure what they want so agile method provide the easy changes when the customer changes their thought from time to time, while still be able to fulfill customer end requirement.It was a great for hearing his explaination which is easy and direct and example being use is based on real-life and easy to relate with, at the end of the talk I have learn that we need to explore more of the knowledge other then what we have learn in the academic year.*
 
 ## Documentation  
 **Report Written**
