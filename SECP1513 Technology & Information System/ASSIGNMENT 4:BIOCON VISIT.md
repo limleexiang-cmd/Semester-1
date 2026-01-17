@@ -9,11 +9,11 @@ VENUE : Kawasan Perindustrian SILC, 1, Jln Bioteknologi 1, 79200 Iskandar Puteri
 <div align="left">       
 
 ## REFLECTION 
-*On 24 December 2025, I had the opportunity to visit Biocon, a leading global biopharmaceutical company headquartered in India with a branch operating in Malaysia. The industrial visit was a valuable and enriching experience, allowing us to tour the company and gain exposure to a real-world pharmaceutical production environment.
+*On 24 December 2025, I had the opportunity to visit Biocon, a leading global biopharmaceutical company headquartered in India with a branch operating in Malaysia. The industrial visit was a valuable and enriching experience, allowing us to tour the company and gain exposure to a real-world pharmaceutical production environment.*
 
-During the visit, the speakers delivered meaningful talks that encouraged us to reflect on the true purpose of technology. Although the idea may seem simple, it is often overlooked—technology is meant to support and assist humanity, not replace or overpower it, but to help us achieve our goals more effectively. This message left a strong impression on me and highlighted the ethical responsibility behind technological advancement.
+*During the visit, the speakers delivered meaningful talks that encouraged us to reflect on the true purpose of technology. Although the idea may seem simple, it is often overlooked—technology is meant to support and assist humanity, not replace or overpower it, but to help us achieve our goals more effectively. This message left a strong impression on me and highlighted the ethical responsibility behind technological advancement.*
 
-Additionally, the visit provided insight into the insulin production process, particularly the duplication and manufacturing of insulin using advanced biotechnological methods. The session was filled with new knowledge that I had not been previously aware of, making the experience both educational and inspiring. Overall, the visit broadened my understanding of how technology and biotechnology are applied in the healthcare industry to improve lives.*
+*Additionally, the visit provided insight into the insulin production process, particularly the duplication and manufacturing of insulin using advanced biotechnological methods. The session was filled with new knowledge that I had not been previously aware of, making the experience both educational and inspiring. Overall, the visit broadened my understanding of how technology and biotechnology are applied in the healthcare industry to improve lives.*
 
 ## Documentation  
 **Newsletter**
