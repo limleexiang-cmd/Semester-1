@@ -9,9 +9,11 @@ VENUE : Software Innovation Lab, N28
         
         
 ## Reflection
-On 12 November 2025, our team of four had the opportunity to participate in a hands-on PC reassembly session. It was a valuable and engaging experience that allowed us to gain practical exposure to computer hardware. During the session, we were guided on how to properly disassemble and assemble a personal computer.
+On 12 November 2025, our team of four had the opportunity to participate in a hands-on PC reassembly session. This activity was a valuable and engaging experience that allowed us to gain practical exposure to computer hardware. During the session, we were guided on the correct procedures for disassembling and assembling a personal computer, emphasizing proper handling and safety precautions.
 
-This activity provided us with a clear understanding of the various components of a PC, as well as their physical appearance and functions. By handling each hardware component directly, we were able to better recognize how the parts fit together and how they contribute to the overall operation of the system. Overall, the session enhanced our technical knowledge and strengthened our interest in computer hardware and the IT field.
+Through this activity, we gained a clearer understanding of the various components of a PC, including their physical structure, functions, and interconnections. By directly handling each hardware component, we were able to better recognize how the parts fit together and how they collectively contribute to the overall operation of the system. The hands-on approach significantly enhanced our learning compared to theoretical study alone.
+
+Overall, this session improved our technical knowledge, teamwork, and confidence in handling computer hardware. It also strengthened our interest in the IT field, particularly in areas related to hardware maintenance, troubleshooting, and system assembly.
 
 ## Documentation  
 
