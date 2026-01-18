@@ -9,9 +9,11 @@ VENUE : UTMDigital Building
 <div align="left">       
 <i> <u><b>Reflection</b>
   
-On 29 October 2025, UTM organized an event known as the UTMDIGITAL Open Day, which we attended. During the event, we participated in a talk focused on system development. The session was highly informative and provided valuable insights into real working experiences in the IT industry. It introduced us to various techniques used in professional environments, particularly those that help improve communication and collaboration during work.
+On 29 October 2025, Universiti Teknologi Malaysia (UTM) organized an event known as UTMDIGITAL Open Day, which we had the opportunity to attend. During this event, we participated in an industrial talk focused on system development. The session was highly informative and provided valuable exposure to real working experiences in the IT industry. Through this talk, we were introduced to various professional techniques and practices, especially those that enhance communication, collaboration, and efficiency in real workplace environments.
 
-During the Q&A session, we gained a clearer understanding of the purpose and role of UTMDIGITAL. Overall, the experience was truly unforgettable and meaningful. The large and professional setting of the hall where the talk was held further inspired and motivated me to pursue a career in the IT industry. Moreover, IT is a continuously evolving field, and having the opportunity to take my first steps into this industry is both exciting and fulfilling for me.
+The Q&A session further strengthened our understanding of the role and purpose of UTMDIGITAL, particularly in supporting digital transformation and system development within the university and industry. This interaction allowed us to gain clearer insights into how IT professionals work together to develop, manage, and maintain digital systems.
+
+Overall, the experience was unforgettable and meaningful. The large, professional setting of the hall created a strong impression and motivated me to seriously consider a future career in the IT industry. As information technology is a rapidly evolving field, being exposed to real industry practices at an early stage has increased my confidence and enthusiasm. This event marked an important first step in my journey toward the IT profession and has inspired me to continuously improve my technical knowledge and professional skills.
 
 ## Documentation  
 
