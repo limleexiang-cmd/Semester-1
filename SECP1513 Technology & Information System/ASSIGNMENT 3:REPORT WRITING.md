@@ -11,11 +11,11 @@ VENUE : Hyflex Classroom N28A (Online)
 <div align="left">  
   
 ## REFLECTION 
-*In this industry talk, the speaker—an alumnus of UTM—shared his professional experiences with us, which made the session both engaging and insightful. It was a great pleasure to learn from his journey in the industry. The talk encouraged us to reflect on the essential skills required in the workplace and introduced effective approaches to managing and completing projects.
+*In this industry talk, the speaker—an alumnus of UTM—shared his professional experiences with us, which made the session both engaging and insightful. It was a great pleasure to learn from his journey in the industry. The talk encouraged us to reflect on the essential skills required in the workplace and introduced effective approaches to managing and completing projects.*
 
-One of the key highlights of the session was his explanation of the differences between the Waterfall and Agile development methodologies. He presented these concepts in a simple and easy-to-understand manner. He explained that clients often are not entirely sure of their requirements at the beginning of a project, and the Agile methodology allows for flexibility and continuous improvement when customer needs change over time, while still ensuring that the final product meets end-user requirements.
+*One of the key highlights of the session was his explanation of the differences between the Waterfall and Agile development methodologies. He presented these concepts in a simple and easy-to-understand manner. He explained that clients often are not entirely sure of their requirements at the beginning of a project, and the Agile methodology allows for flexibility and continuous improvement when customer needs change over time, while still ensuring that the final product meets end-user requirements.*
 
-The speaker’s explanations were clear, direct, and supported by real-life examples that were easy to relate to. By the end of the talk, I learned the importance of expanding my knowledge beyond what is taught in the academic syllabus and continuously exploring new skills to better prepare for future professional challenges.*
+*The speaker’s explanations were clear, direct, and supported by real-life examples that were easy to relate to. By the end of the talk, I learned the importance of expanding my knowledge beyond what is taught in the academic syllabus and continuously exploring new skills to better prepare for future professional challenges.*
 
 ## Documentation  
 **Report Written**
