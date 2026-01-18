@@ -9,7 +9,13 @@ VENUE : Hyflex Classroom N28A (Online)
 <div align="left">       
 <i> <u><b>Reflection</b>
   
-*This is a talk on PPG, it is about explanation on the purpose of PPG and how their works goes around the globe. Through this talk it gives us an idea or knowing on how a global company works which helps with our knowledge about the importance of ICT impact the behavior of a company like how they exchange their idea and have a well communication across all branches.*
+*🌍 Industry Talk Reflection | Understanding Global Operations at PPG*
+
+*This talk provided valuable insights into PPG, focusing on its purpose as a global company and how its operations are managed across different regions worldwide. The session helped me gain a clearer understanding of how multinational organizations function and coordinate their activities on a global scale.*
+
+*Through this talk, I learned how Information and Communication Technology (ICT) plays a critical role in shaping a company’s operations and culture. ICT enables effective idea sharing, smooth collaboration, and strong communication among teams across multiple branches, regardless of geographical boundaries. This highlighted the importance of well-structured communication systems in maintaining efficiency and consistency within a global organization.*
+
+*Overall, the session deepened my understanding of how advancements in ICT have impacted global development and emphasized how essential technology is for businesses to achieve clear communication, coordination, and long-term success in today’s interconnected world.*
 
 ## Documentation  
 
