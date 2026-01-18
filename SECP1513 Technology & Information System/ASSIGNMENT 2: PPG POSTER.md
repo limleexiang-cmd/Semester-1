@@ -11,11 +11,11 @@ VENUE : Hyflex Classroom N28A (Online)
   
 🌍*Industry Talk Reflection | Understanding Global Operations at PPG*
 
-*This talk provided valuable insights into PPG, focusing on its purpose as a global company and how its operations are managed across different regions worldwide. The session helped me gain a clearer understanding of how multinational organizations function and coordinate their activities on a global scale.*
+*This talk provided valuable insights into PPG, focusing on its role as a global company and how its operations are effectively managed across different regions worldwide. The session enhanced my understanding of how multinational organizations function, particularly in coordinating activities and maintaining consistency across various international branches.*
 
-*Through this talk, I learned how Information and Communication Technology (ICT) plays a critical role in shaping a company’s operations and culture. ICT enables effective idea sharing, smooth collaboration, and strong communication among teams across multiple branches, regardless of geographical boundaries. This highlighted the importance of well-structured communication systems in maintaining efficiency and consistency within a global organization.*
+*Through this talk, I learned that Information and Communication Technology (ICT) plays a crucial role in shaping both a company’s operations and organizational culture. ICT enables efficient idea sharing, collaboration, and communication among teams located in different geographical areas. This demonstrated how well-structured digital communication systems are essential for ensuring smooth workflows, operational efficiency, and alignment with corporate goals in a global organization.*
 
-*Overall, the session deepened my understanding of how advancements in ICT have impacted global development and emphasized how essential technology is for businesses to achieve clear communication, coordination, and long-term success in today’s interconnected world.*
+*Overall, the session deepened my understanding of how advancements in ICT contribute to global development and highlighted the importance of technology in achieving effective communication, coordination, and long-term business success in today’s interconnected and competitive environment.*
 
 ## Documentation  
 
