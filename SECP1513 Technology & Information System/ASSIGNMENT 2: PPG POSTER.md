@@ -9,7 +9,7 @@ VENUE : Hyflex Classroom N28A (Online)
 <div align="left">       
 <i> <u><b>Reflection</b>
   
-🌍 *Industry Talk Reflection | Understanding Global Operations at PPG*
+🌍*Industry Talk Reflection | Understanding Global Operations at PPG*
 
 *This talk provided valuable insights into PPG, focusing on its purpose as a global company and how its operations are managed across different regions worldwide. The session helped me gain a clearer understanding of how multinational organizations function and coordinate their activities on a global scale.*
 
