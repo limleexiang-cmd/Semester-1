@@ -4,7 +4,7 @@
 # Industrial Talk 2 :Head of Technology and Innovation(Serunai Commerce Sdn Bhd)
 DATE : 18 DECEMBER 2025
 
-SPEAKER:TS.HJ.ABDUL ALIM BIN ABDUL MUTTALIB
+SPEAKER : TS.HJ.ABDUL ALIM BIN ABDUL MUTTALIB
 
 VENUE : Hyflex Classroom N28A (Online) 
 </div>
